@@ -1,4 +1,4 @@
-# serenity-starter-project-web
+# serenity-project-orange-hrm-web
 
 This Project Web Automation Testing Using Selenium, Cucumber, JUnit and Serenity BDD for Reporting
 
